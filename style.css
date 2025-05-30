@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+
+h1 {
+  color: #3D3D3D;
+  background-color: #E1EDF2;
+  padding: 10px;
+}
+
+
+h2 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+
+figure {
+  text-align: center;
+  background-color: whitesmoke;
+  color: lightgrey;
+  padding: 10px;
+  margin: 20px auto;
+  width: fit-content;
+}
